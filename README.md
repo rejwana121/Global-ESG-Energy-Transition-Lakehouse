@@ -4,6 +4,7 @@
 [![Delta Lake](https://img.shields.io/badge/Delta_Lake-Medallion_Architecture-00ADD8?logo=apachespark&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-Executive_Dashboard-F2C811?logo=powerbi&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/SQL-Analytics_Engineering-336791?logo=postgresql&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Interactive_Dashboard-00C781?logo=googlechrome&logoColor=white)](https://rejwana121.github.io/Global-ESG-Energy-Transition-Lakehouse/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An enterprise-grade, end-to-end Big Data Engineering and Business Intelligence Lakehouse analyzing **35+ years (1990–2025)** of multinational electricity generation, renewable adoption dynamics, and structural carbon decoupling across 176+ sovereign nations.
@@ -98,7 +99,7 @@ FROM silver_energy_cleaned;
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Global-ESG-Energy-Transition-Lakehouse.git
+   git clone https://github.com/rejwana121/Global-ESG-Energy-Transition-Lakehouse.git
    cd Global-ESG-Energy-Transition-Lakehouse
    ```
 2. Open the dashboard:
